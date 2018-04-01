@@ -1,1 +1,1 @@
-echo 3066 NiuBi
+echo 306 NiuBi
